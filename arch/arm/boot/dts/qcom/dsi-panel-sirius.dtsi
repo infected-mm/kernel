@@ -79,7 +79,8 @@
 		qcom,mdss-dsi-t-clk-post = <0x02>;
 		qcom,mdss-dsi-t-clk-pre = <0x2B>;
 		qcom,mdss-dsi-bl-min-level = <1>;
-		qcom,mdss-dsi-bl-max-level = <4095>;
+		qcom,mdss-dsi-bl-max-level = <255>;
+		qcom,mdss-brightness-max-level = <255>;
 		qcom,mdss-dsi-dma-trigger = "trigger_sw";
 		qcom,mdss-dsi-mdp-trigger = "none";
 		qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
@@ -232,7 +233,8 @@
 		qcom,mdss-dsi-t-clk-post = <0x02>;
 		qcom,mdss-dsi-t-clk-pre = <0x2B>;
 		qcom,mdss-dsi-bl-min-level = <1>;
-		qcom,mdss-dsi-bl-max-level = <4095>;
+		qcom,mdss-dsi-bl-max-level = <255>;
+		qcom,mdss-brightness-max-level = <255>;
 		qcom,mdss-dsi-dma-trigger = "trigger_sw";
 		qcom,mdss-dsi-mdp-trigger = "none";
 		qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
@@ -396,7 +398,8 @@
 		qcom,mdss-dsi-t-clk-post = <0x02>;
 		qcom,mdss-dsi-t-clk-pre = <0x2B>;
 		qcom,mdss-dsi-bl-min-level = <1>;
-		qcom,mdss-dsi-bl-max-level = <4095>;
+		qcom,mdss-dsi-bl-max-level = <255>;
+		qcom,mdss-brightness-max-level = <255>;
 		qcom,mdss-dsi-dma-trigger = "trigger_sw";
 		qcom,mdss-dsi-mdp-trigger = "none";
 		qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
@@ -946,7 +949,8 @@
 		qcom,mdss-dsi-t-clk-post = <0x02>;
 		qcom,mdss-dsi-t-clk-pre = <0x2B>;
 		qcom,mdss-dsi-bl-min-level = <1>;
-		qcom,mdss-dsi-bl-max-level = <4095>;
+		qcom,mdss-dsi-bl-max-level = <255>;
+		qcom,mdss-brightness-max-level = <255>;
 		qcom,mdss-dsi-dma-trigger = "trigger_sw";
 		qcom,mdss-dsi-mdp-trigger = "none";
 		qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
@@ -1492,7 +1496,8 @@
 		qcom,mdss-dsi-t-clk-post = <0x02>;
 		qcom,mdss-dsi-t-clk-pre = <0x2B>;
 		qcom,mdss-dsi-bl-min-level = <1>;
-		qcom,mdss-dsi-bl-max-level = <4095>;
+		qcom,mdss-dsi-bl-max-level = <255>;
+		qcom,mdss-brightness-max-level = <255>;
 		qcom,mdss-dsi-dma-trigger = "trigger_sw";
 		qcom,mdss-dsi-mdp-trigger = "none";
 		qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
@@ -1676,7 +1681,8 @@
 		qcom,mdss-dsi-t-clk-post = <0x02>;
 		qcom,mdss-dsi-t-clk-pre = <0x2B>;
 		qcom,mdss-dsi-bl-min-level = <1>;
-		qcom,mdss-dsi-bl-max-level = <4095>;
+		qcom,mdss-dsi-bl-max-level = <255>;
+		qcom,mdss-brightness-max-level = <255>;
 		qcom,mdss-dsi-dma-trigger = "trigger_sw";
 		qcom,mdss-dsi-mdp-trigger = "none";
 		qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
@@ -1849,7 +1855,8 @@
 		qcom,mdss-dsi-t-clk-post = <0x02>;
 		qcom,mdss-dsi-t-clk-pre = <0x2B>;
 		qcom,mdss-dsi-bl-min-level = <1>;
-		qcom,mdss-dsi-bl-max-level = <4095>;
+		qcom,mdss-dsi-bl-max-level = <255>;
+		qcom,mdss-brightness-max-level = <255>;
 		qcom,mdss-dsi-dma-trigger = "trigger_sw";
 		qcom,mdss-dsi-mdp-trigger = "none";
 		qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
@@ -1943,7 +1950,8 @@
 		qcom,mdss-dsi-t-clk-post = <0x02>;
 		qcom,mdss-dsi-t-clk-pre = <0x2B>;
 		qcom,mdss-dsi-bl-min-level = <1>;
-		qcom,mdss-dsi-bl-max-level = <4095>;
+		qcom,mdss-dsi-bl-max-level = <255>;
+		qcom,mdss-brightness-max-level = <255>;
 		qcom,mdss-dsi-dma-trigger = "trigger_sw";
 		qcom,mdss-dsi-mdp-trigger = "none";
 		qcom,mdss-dsi-bl-pmic-control-type = "bl_ctrl_wled";
